@@ -62,7 +62,7 @@ education:
       university: Seoul National University
       time: 2014 - 2019
     - university: Seoul Science High School
-      time: 2011 - 2013
+      time: 2011 - 2014
     
 experiences:
     - role: Teaching Assistant
@@ -119,9 +119,11 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 awards:
-    - role: Presidential Scholarship for Science and Engineering Undergraduate Students
+    - role: Presidential Science Scholarship
       time: 2014 - 2019
       company: Korea Student Aid Foundation
+      details: |
+        Scholarship for undergraduate students with excellent science and engineering.
     - role: Research Assistant Scholarship
       time: 2019
       company: Seoul National University
