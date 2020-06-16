@@ -48,12 +48,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am currently under the master's course at Seoul National University 3D vision lab. 
+      My main areas of interest are computer graphics, reinforcement learning, and 3D computer vision.
 education:
     - degree: MSc in Electrical and Computer Engineering
       university: Seoul National University
@@ -99,37 +95,27 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
+    # papers:
+    #   - title: Novel View Synthesis with Skip Connections
+    #     link: "#"
+    #     authors: Juhyeon Kim and Young Min Kim
+    #     conference: ICIP, 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 awards:
     - role: Presidential Science Scholarship
       time: 2014 - 2019
       company: Korea Student Aid Foundation
       details: |
         Scholarship for undergraduate students with excellent science and engineering.
-    - role: Research Assistant Scholarship
-      time: 2019
-      company: Seoul National University
     - role: Academic festival for undergraduate students
       time: 2017
       company: Seoul National University
+      details: |
+        Won the best thesis award for the paper titled "Real-time photo-realistic rendering of large 3d natural scenes".
     - role: SNU Alumni Association President Award
       time: 2019
       company: Seoul National University
@@ -142,10 +128,10 @@ skills:
       - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Java
         level: 98%
 
-      - name: Angular
+      - name: OpenGL
         level: 98%
 
 
