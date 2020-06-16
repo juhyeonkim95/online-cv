@@ -136,9 +136,10 @@ awards:
       # time: 2014 - 2015
       company: Seoul National University, Republic of Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet
+        I did several TA works.
           - 2020-1: Graphics Programming
           - 2019-2: Machine learning and optimization for 3D data
+
 skills:
     title: Skills &amp; Proficiency
 
@@ -152,14 +153,6 @@ skills:
       - name: Angular
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
