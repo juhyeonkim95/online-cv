@@ -96,10 +96,11 @@ experiences:
 projects:
     title: Personal Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My personal projects
     assignments:
+      - title: Ray Tracing with OpenGL
+        tagline: "Ray Tracing with OpenGL"
+
       - title: Starcraft + RL
         link: "https://www.youtube.com/watch?v=N_xB3lE0awQ"
         image: StarcraftRL.png
