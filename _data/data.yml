@@ -102,6 +102,7 @@ projects:
     assignments:
       - title: Starcraft + RL
         link: "https://www.youtube.com/watch?v=N_xB3lE0awQ"
+        image: profile.png
         tagline: "Starcraft Micro Unit Control using Multi-Agent Reinforcement Learning."
 
       - title: ISLAND
