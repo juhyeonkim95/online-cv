@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Juhyeon Kim
     # tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: cjdeka3123@snu.ac.kr
@@ -40,6 +40,9 @@ sidebar:
         link:
 
       - item: Reinforcement Learning
+        link:
+
+      - item: Computer Vision
         link:
 
 career-profile:
@@ -86,20 +89,16 @@ experiences:
       time: 2019 - 2019
       company: Kakao Mobility, Republic of Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        The bachelor's thesis was conducted in collaboration with Kakao Mobility. 
+        I worked as an intern for 6 months and studied about taxi dispatching strategy using multi-agent deep RL.
 projects:
     title: Personal Projects
     intro: >
-      My personal projects
+      During my undergradute years, I conducted many personal projects.
     assignments:
       - title: Ray Tracing with OpenGL
         tagline: "Ray Tracing with OpenGL"
+        image: RayTracing.png
 
       - title: Starcraft + RL
         link: "https://www.youtube.com/watch?v=N_xB3lE0awQ"
@@ -109,7 +108,7 @@ projects:
       - title: ISLAND
         link: "https://www.youtube.com/watch?v=x14VYrgC0Ng"
         image: Island.png
-        tagline: "Open world survival game using OpenGL."
+        tagline: "I developed open world survival game from scratch using OpenGL without any commercial engine."
 
 publications:
     title: Publications
@@ -132,7 +131,14 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
+awards:
+    - role: Teaching Assistant
+      # time: 2014 - 2015
+      company: Seoul National University, Republic of Korea
+      details: |
+        Describe your role here lorem ipsum dolor sit amet
+          - 2020-1: Graphics Programming
+          - 2019-2: Machine learning and optimization for 3D data
 skills:
     title: Skills &amp; Proficiency
 
