@@ -58,38 +58,25 @@ education:
     - degree: MSc in Electrical and Computer Engineering
       university: Seoul National University
       time: 2019 - Present
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
     - degree: BSc in Electrical and Computer Engineering
       university: Seoul National University
       time: 2014 - 2019
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - university: Seoul Science High School
+      time: 2011 - 2013
+    
 experiences:
     - role: Teaching Assistant
       # time: 2014 - 2015
       company: Seoul National University, Republic of Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet
+        I was in charge of TA for the following subjects.
           - 2020-1: Graphics Programming
           - 2019-2: Machine learning and optimization for 3D data
     - role: Intern
       time: 2019 - 2019
       company: Kakao Mobility, Republic of Korea
       details: |
-        The bachelor's thesis was conducted in collaboration with Kakao Mobility. 
+        My bachelor's thesis was conducted in collaboration with Kakao Mobility. 
         I worked as an intern for 6 months and studied about taxi dispatching strategy using multi-agent deep RL.
 projects:
     title: Personal Projects
@@ -132,14 +119,20 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 awards:
-    - role: Teaching Assistant
-      # time: 2014 - 2015
-      company: Seoul National University, Republic of Korea
+    - role: Presidential Scholarship for Science and Engineering Undergraduate Students
+      time: 2014 - 2019
+      company: Korea Student Aid Foundation
+    - role: Research Assistant Scholarship
+      time: 2019
+      company: Seoul National University
+    - role: Academic festival for undergraduate students
+      time: 2017
+      company: Seoul National University
+    - role: SNU Alumni Association President Award
+      time: 2019
+      company: Seoul National University
       details: |
-        I did several TA works.
-          - 2020-1: Graphics Programming
-          - 2019-2: Machine learning and optimization for 3D data
-
+        Award for honors graduates.
 skills:
     title: Skills &amp; Proficiency
 

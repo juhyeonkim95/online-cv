@@ -33,7 +33,9 @@
       <div class="meta">
 
         <div class="upper-row">
+          {% if graduation.degree %}
           <h3 class="degree">{{ graduation.degree }}</h3>
+          {% endif %}
           <div class="time">{{ graduation.time }}</div>
         </div><!--//upper-row-->
 
