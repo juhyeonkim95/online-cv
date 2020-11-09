@@ -26,7 +26,7 @@
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
     <a href="{{ publication.code }}">{{ "Code" }}</a>
-    <a href="{{ publication.paper }}">{{ "Paper" }}</a>
+    <a href="{{ site.baseurl }}/assets/papers/{{ publication.paper }}">{{ "Paper" }}</a>
   </div><!--//item-->
   {% endfor %}
 
