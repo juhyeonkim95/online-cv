@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am currently under the master's course at Seoul National University 3D vision lab. 
+      I am currently under the master's course at Seoul National University [3D vision lab](http://3d.snu.ac.kr/).
       My main areas of interest are computer graphics, reinforcement learning, and 3D computer vision.
 education:
     - degree: MSc in Electrical and Computer Engineering
@@ -104,6 +104,11 @@ publications:
         link: "https://github.com/juhyeonkim95/NovelViewSynthesis"
         authors: Juhyeon Kim and Young Min Kim
         conference: IEEE International Conference on Image Processing (ICIP), 2020
+        code: "https://github.com/juhyeonkim95/NovelViewSynthesis"
+        paper: "https://github.com/juhyeonkim95/NovelViewSynthesis"
+      - title: Optimizing Large-Scale Fleet Management on a Road Network using Multi-Agent Deep Reinforcement Learning with Graph Neural Network
+        authors: Juhyeon Kim
+        conference: arXiv, 2020
         code: "https://github.com/juhyeonkim95/NovelViewSynthesis"
         paper: "https://github.com/juhyeonkim95/NovelViewSynthesis"
 
