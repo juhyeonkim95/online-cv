@@ -105,7 +105,7 @@ publications:
         authors: Juhyeon Kim and Young Min Kim
         conference: IEEE International Conference on Image Processing (ICIP), Oct 2020
         code: "https://github.com/juhyeonkim95/NovelViewSynthesis"
-        paper: "2020novelviewsynthesis.pdf"
+        paper: "2020novelview.pdf"
       # - title: Optimizing Large-Scale Fleet Management on a Road Network using Multi-Agent Deep Reinforcement Learning with Graph Neural Network
       #   authors: Juhyeon Kim
       #   conference: arXiv
