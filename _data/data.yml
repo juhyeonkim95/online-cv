@@ -49,12 +49,14 @@ career-profile:
     title: Career Profile
     summary: |
       I am currently under the master's course at Seoul National University [3D vision lab](http://3d.snu.ac.kr/).
-      My main areas of interest are computer graphics, reinforcement learning, and 3D computer vision.
+      My main areas of interest are computer graphics, reinforcement learning, and 3D computer vision. 
+      Currently my research interest is efficient path tracing on GPU with reinforcement learning techiniques.
+
 education:
     - degree: MSc in Electrical and Computer Engineering
       university: Seoul National University
       time: 2019 - Present
-    - degree: BSc in Electrical and Computer Engineering
+    - degree: BSc in College of Liberal Arts (major in electrical and computer engineering)
       university: Seoul National University
       time: 2014 - 2019
     - university: Seoul Science High School
@@ -74,24 +76,30 @@ experiences:
       details: |
         My bachelor's thesis was conducted in collaboration with Kakao Mobility. 
         I worked as an intern for 6 months and studied about taxi dispatching strategy using multi-agent deep RL.
+
 projects:
     title: Personal Projects
     intro: >
-      During my undergradute years, I conducted many personal projects.
+      During my graduace & undergradute years, I conducted many personal projects.
     assignments:
+      - title: Volumetric Path Tracing with Reinforcement Learning (WIP)
+        tagline: "Expansion of previous RL application on path tracing to volumentric case. Implemented with Python and Optix 6.5. Work in progress."
+        image: VolumetricPathtracing.png
+
       - title: Ray Tracing with OpenGL
-        tagline: "Ray Tracing with OpenGL"
+        tagline: "Simple real-time ray tracing implement with OpenGL."
         image: RayTracing.png
 
       - title: Starcraft + RL
         link: "https://www.youtube.com/watch?v=N_xB3lE0awQ"
         image: StarcraftRL.png
-        tagline: "Starcraft Micro Unit Control using Multi-Agent Reinforcement Learning."
+        tagline: "Starcraft micro unit control using multi-agent reinforcement learning."
 
       - title: ISLAND
         link: "https://www.youtube.com/watch?v=x14VYrgC0Ng"
         image: Island.png
-        tagline: "I developed open world survival game from scratch using OpenGL without any commercial engine."
+        tagline: "I developed open world survival game from scratch using OpenGL without any commercial engine.
+        I also had written a short thesis from my development experience, and got best paper award in SNU Academic Festival for Undergraduate Students."
 
 publications:
     title: Publications
@@ -106,11 +114,13 @@ publications:
         conference: IEEE International Conference on Image Processing (ICIP), Oct 2020
         code: "https://github.com/juhyeonkim95/NovelViewSynthesis"
         paper: "2020novelview.pdf"
-      # - title: Optimizing Large-Scale Fleet Management on a Road Network using Multi-Agent Deep Reinforcement Learning with Graph Neural Network
-      #   authors: Juhyeon Kim
-      #   conference: arXiv
-      #   code: "https://github.com/juhyeonkim95/NovelViewSynthesis"
-      #   paper: "https://github.com/juhyeonkim95/NovelViewSynthesis"
+        image: "2020novelview.PNG"
+      - title: Optimizing Large-Scale Fleet Management on a Road Network using Multi-Agent Deep Reinforcement Learning with Graph Neural Network
+        authors: Juhyeon Kim
+        conference: arXiv, Nov 2020
+        code: "https://github.com/juhyeonkim95/TaxiSimulatorOnGraph"
+        paper: "2020taxi.pdf"
+        image: "2020taxi_q.gif"
 
 awards:
     - role: Presidential Science Scholarship
@@ -133,13 +143,19 @@ skills:
 
     toolset:
       - name: Python
-        level: 98%
+        level: 80%
 
       - name: Java
-        level: 98%
+        level: 88%
 
-      - name: OpenGL
-        level: 98%
+      - name: C++
+        level: 88%
+
+      - name: OpenGL related (GLSL)
+        level: 90%
+
+      - name: OptiX
+        level: 88%
 
 
 footer: >
