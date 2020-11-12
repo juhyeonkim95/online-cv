@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Juhyeon Kim
-    # tagline: Full Stack Developer
+    tagline: Enthusiactic Computer Graphics Researcher & Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: cjdeka3123@snu.ac.kr
     #phone: 012 345 6789
-    #website: blog.webjeda.com #do not add http://
+    website (Korean): blog.naver.com/cjdeka3123 #do not add http://
     #linkedin: alandoe
     github: juhyeonkim95
     #telegram: # add your nickname without '@' sign
@@ -100,6 +100,10 @@ projects:
         image: Island.png
         tagline: "I developed open world survival game from scratch using OpenGL without any commercial engine.
         I also had written a short thesis from my development experience, and got best paper award in SNU Academic Festival for Undergraduate Students."
+
+      - title: Personal blog about game programming
+        link: "https://blog.naver.com/cjdeka3123"
+        tagline: "Personal blog about game programming (Korean)."
 
 publications:
     title: Publications
