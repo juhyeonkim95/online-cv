@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: cjdeka3123@snu.ac.kr
     #phone: 012 345 6789
-    website (Korean): blog.naver.com/cjdeka3123 #do not add http://
+    website: blog.naver.com/cjdeka3123 #do not add http://
     #linkedin: alandoe
     github: juhyeonkim95
     #telegram: # add your nickname without '@' sign
@@ -103,7 +103,7 @@ projects:
 
       - title: Personal blog about game programming
         link: "https://blog.naver.com/cjdeka3123"
-        tagline: "Personal blog about game programming (Korean)."
+        tagline: "When I was undergraduate student, I uploaded several articles about game programming in my Naver blog (Korean).
 
 publications:
     title: Publications
