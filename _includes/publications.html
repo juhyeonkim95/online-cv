@@ -29,7 +29,7 @@
     <a href="{{ site.baseurl }}/assets/papers/{{ publication.paper }}">{{ "Paper" }}</a>
     <br>
     {% if publication.image %}
-      <img class="publication-image" src="{{ site.baseurl }}/assets/images/papers/{{ publication.image }}" alt="publication image" style="height: 100px; width: auto;"/>
+      <img class="publication-image" src="{{ site.baseurl }}/assets/images/papers/{{ publication.image }}" alt="publication image" style="max-width: 100%; height: auto;"/>
     {% endif %}
   </div><!--//item-->
   {% endfor %}
