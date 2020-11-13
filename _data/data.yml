@@ -105,13 +105,11 @@ projects:
       - title: ISLAND
         link: "https://www.youtube.com/watch?v=x14VYrgC0Ng"
         image: Island.png
-        tagline: I developed open world survival game from scratch using OpenGL without any commercial engine.
-        I also had written a short thesis from my development experience, and got best paper award in SNU Academic Festival for Undergraduate Students.
+        tagline: I developed open world survival game from scratch using OpenGL without any commercial engine. I also had written a short thesis from my development experience, and got best paper award in SNU Academic Festival for Undergraduate Students.
 
       - title: Personal blog about game programming
         link: "https://blog.naver.com/cjdeka3123"
-        tagline: When I was undergraduate student, I uploaded several articles about game programming in my Naver blog (Korean).
-        Most featured article is developing Starcraft with reverse engineering.
+        tagline: When I was undergraduate student, I uploaded several articles about game programming in my Naver blog (Korean). Most featured article is developing Starcraft with reverse engineering.
 
 publications:
     title: Publications
