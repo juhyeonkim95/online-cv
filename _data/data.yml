@@ -100,13 +100,13 @@ projects:
       - title: Starcraft micro unit control with RL
         link: "https://www.youtube.com/watch?v=N_xB3lE0awQ"
         image: StarcraftRL.png
-        tagline: "Starcraft micro unit control using multi-agent reinforcement learning."
+        tagline: Starcraft micro unit control using multi-agent reinforcement learning.
 
       - title: ISLAND
         link: "https://www.youtube.com/watch?v=x14VYrgC0Ng"
         image: Island.png
-        tagline: "I developed open world survival game from scratch using OpenGL without any commercial engine.
-        I also had written a short thesis from my development experience, and got best paper award in SNU Academic Festival for Undergraduate Students."
+        tagline: I developed open world survival game from scratch using OpenGL without any commercial engine.
+        I also had written a short thesis from my development experience, and got best paper award in SNU Academic Festival for Undergraduate Students.
 
       - title: Personal blog about game programming
         link: "https://blog.naver.com/cjdeka3123"
