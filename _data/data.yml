@@ -82,13 +82,17 @@ projects:
     intro: >
       During my graduate and undergradute years, I conducted many personal projects.
     assignments:
-      - title: Volumetric path tracing with RL
-        tagline: "Expansion of previous RL application on path tracing to volumentric case. Implemented with Python and Optix 6.5. Work in progress."
+      - title: Volumetric path guiding with RL
+        tagline: Expansion of previous RL application on path guiding to volumentric case. Implemented with Python and Optix 6.5. Work in progress.
         image: VolumetricPathtracing.png
 
       - title: Ray tracing with OpenGL
-        tagline: "Simple real-time ray tracing implement with OpenGL."
+        tagline: Simple real-time ray tracing implement with OpenGL.
         image: RayTracing.png
+
+      - title: Efficient taxi dispatching with RL on a graph network
+        tagline: Investigating optimal taxi dispatching algorithm on a road network using deep RL. Work in progress for official publication.
+        image: 2020taxi_q.gif
 
       - title: Starcraft micro unit control with RL
         link: "https://www.youtube.com/watch?v=N_xB3lE0awQ"
@@ -103,7 +107,8 @@ projects:
 
       - title: Personal blog about game programming
         link: "https://blog.naver.com/cjdeka3123"
-        tagline: "When I was undergraduate student, I uploaded several articles about game programming in my Naver blog (Korean).
+        tagline: When I was undergraduate student, I uploaded several articles about game programming in my Naver blog (Korean).
+        Most featured article is developing Starcraft with reverse engineering.
 
 publications:
     title: Publications
