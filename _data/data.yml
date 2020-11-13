@@ -90,6 +90,9 @@ projects:
         tagline: Simple real-time ray tracing implement with OpenGL.
         image: RayTracing.png
 
+      - title: Realistic rendering for AOI
+        tagline: Developing photo-realistic rendering application for automated optical inspection (AOI). Working with Kohyoung Technology
+
       - title: Efficient taxi dispatching with RL on a graph network
         tagline: Investigating optimal taxi dispatching algorithm on a road network using deep RL. Work in progress for official publication.
         image: 2020taxi_q.gif
