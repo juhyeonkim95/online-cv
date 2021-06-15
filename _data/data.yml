@@ -94,8 +94,8 @@ projects:
         tagline: Developing photo-realistic rendering application for automated optical inspection (AOI). Working with Kohyoung Technology
 
       - title: Efficient taxi dispatching with RL on a graph network
-        tagline: Investigating optimal taxi dispatching algorithm on a road network using deep RL. Work in progress for official publication.
-        image: 2020taxi_q.gif
+        tagline: Investigating an optimal taxi dispatching algorithm on a road network using deep RL. 
+        # image: 2020taxi_q.gif
 
       - title: Starcraft micro unit control with RL
         link: "https://www.youtube.com/watch?v=N_xB3lE0awQ"
@@ -119,11 +119,12 @@ publications:
     #   bibendum fringilla a eu lectus.
     papers:
       - title: Optimizing Large-Scale Fleet Management on a Road Network using Multi-Agent Deep Reinforcement Learning with Graph Neural Network
+        link: "https://github.com/juhyeonkim95/TaxiSimulatorOnGraph"
         authors: Juhyeon Kim and Kihyun Kim
         conference: The 24th IEEE International Conference on Intelligent Transportation Systems (ITSC), Sep 2021
         code: "https://github.com/juhyeonkim95/TaxiSimulatorOnGraph"
         paper: "2021taxi.pdf"
-        # image: "2021taxi_q.gif"
+        image: "2021taxi_q.gif"
       - title: Novel View Synthesis with Skip Connections
         link: "https://ieeexplore.ieee.org/abstract/document/9191076"
         authors: Juhyeon Kim and Young Min Kim
