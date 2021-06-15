@@ -123,7 +123,7 @@ publications:
         conference: The 24th IEEE International Conference on Intelligent Transportation Systems (ITSC), Sep 2021
         code: "https://github.com/juhyeonkim95/TaxiSimulatorOnGraph"
         paper: "2021taxi.pdf"
-        image: "2020taxi_q.gif"
+        image: "2021taxi_q.gif"
       - title: Novel View Synthesis with Skip Connections
         link: "https://ieeexplore.ieee.org/abstract/document/9191076"
         authors: Juhyeon Kim and Young Min Kim
